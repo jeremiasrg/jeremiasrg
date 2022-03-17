@@ -1,3 +1,8 @@
+Hello everyone! 
+
+Welcome to my github. 
+
+
 - 👋 Hi, I’m @jeremiasrg
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
