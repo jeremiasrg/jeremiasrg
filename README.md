@@ -17,7 +17,7 @@ td, th {
 
 Scan the qrcode to reach me through whatsapp
 
-<table width="100%">
+<table>
     <tr>
         <td >adasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdfadasda dsfsd df sdf sdfsdfssfds sd sdfsdf sdf sdfsdfsd fsd sfsdfsdfsd sdfsdf sdf sdfs sdf</td>
         <td width="150"><img src="./meuqr.jpeg" style="width: 150px" /></td>
