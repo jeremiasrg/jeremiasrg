@@ -23,5 +23,6 @@ Scan the qrcode to reach me through whatsapp
         <td>bbbbbb</td>
     </tr>
 </table>
-
-[<img class="qrcode" src="./meuqr.jpeg" style="width: 150px" />](./meuqr.jpeg)
+<div class="qrcode">
+    <img src="./meuqr.jpeg" style="width: 150px" />
+</div>
