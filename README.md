@@ -5,9 +5,7 @@ td, th {
 
 img[src$='#floatright']
 {
-    /* float:right; */
-    position: fixed;
-    right: 30px
+    float:right;
 }
 </style>
 # Hello everyone! 
