@@ -5,4 +5,12 @@
 
 
 Scan the qrcode to reach me through whatsapp
-[<img src="./meuqr.jpeg" style="position: fixed; width: 150px; right: 40px" />](./meuqr.jpeg)
+
+<table style="border:0px">
+    <tr>
+        <td>adasda</td>
+        <td>bbbbbb</td>
+    </tr>
+</table>
+
+[<img src="./meuqr.jpeg" style="width: 150px" />](./meuqr.jpeg)
