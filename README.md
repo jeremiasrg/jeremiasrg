@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 td, th {
    border: none!important;
 }
@@ -7,7 +7,7 @@ img[src$='#floatright']
 {
     float:right;
 }
-</style>
+</style> -->
 # Hello everyone! 
 
 ### Welcome to my github.  
