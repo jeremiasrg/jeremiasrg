@@ -1,10 +1,8 @@
-Hello everyone! 
+# Hello everyone! 
 
-Welcome to my github. 
+### Welcome to my github.  
 
 
 
-<!---
-jeremiasrg/jeremiasrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Scan the qrcode to reach me through whatsapp
+[<img src="./meuqr.jpeg" style="position: fixed; width: 150px; right: 40px" />](./meuqr.jpeg)
