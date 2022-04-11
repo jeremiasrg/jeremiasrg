@@ -17,7 +17,7 @@ Here is my knowledge shared 🎁
 Find below the most important repos that I have here.
 
 
-1. **Kubernetes(Kind)** and **Ansible AWX** installation ([click here](https://github.com/jeremiasrg/rundeckAndAnsible))
+1. **Kubernetes(Kind)** and **Ansible AWX** installation ([click here](https://github.com/jeremiasrg/kubernetes_ansible_awx))
 2. Learn more about **Rundeck**, **Ansible**, **Elasticsearch** and **Kibana** ([click here](https://github.com/jeremiasrg/rundeckAndAnsible))
 3. Check a complete example using **Java Springboot** ([click here](https://github.com/jeremiasrg/sample-springboot))
 4. **Elasticsearch APM** sample ([click here](https://github.com/jeremiasrg/elastic-apm-server-poc))
