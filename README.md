@@ -12,7 +12,7 @@ img[src$='#floatright']
 
 Welcome to my github. 😉
 
-Here is my knowledge shared 🎁
+Here is where I share my knowledge 🎁
 
 Find below the most important repos that I have here.
 
