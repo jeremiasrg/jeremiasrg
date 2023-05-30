@@ -25,7 +25,7 @@ Find below the most important repos that I have here.
 6. Compare functionalities between two **SONAR** versions ([click here](https://github.com/jeremiasrg/sonar-versions-campare/blob/main/docker-compose.yml))
 7. Creating a **Ubuntu VM** using **Terraform** on **Azure**. ([click here](https://github.com/jeremiasrg/terraform-vm-code))
 
-‼️ These repos has secrets exposed in his configuration. Because of that, the use of these docker compose is recommended only for study purpose. ‼️
+‼️ These repos has secrets exposed in his configuration. Because of that, the use of these docker composes are recommended only for study purpose. ‼️
 
 
 
